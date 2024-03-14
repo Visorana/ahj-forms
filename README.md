@@ -1,2 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/eg3qaw3kf4s2u537?svg=true)](https://ci.appveyor.com/project/Visorana/ahj-forms-pq7m0)  
+[![Build status](https://ci.appveyor.com/api/projects/status/hpxmu5kq9dni6p9k?svg=true)](https://ci.appveyor.com/project/Visorana/ahj-forms-ca1o3)  
 https://visorana.github.io/ahj-forms/
